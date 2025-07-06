@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nskarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="nskarachchi" /> </p>
 
+---
+
 - 📫 How to reach me **dinethinikini@gmail.com**
 
 - ⚡ Fun fact **I name my WiFi networks after my favorite TV shows**
