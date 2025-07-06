@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **dinethinikini@gmail.com**
 
+- 👩🏻‍🎓 I’m an undergraduate at NSBM Green University
+
 - ⚡ Fun fact **I name my WiFi networks after my favorite TV shows**
 
 <h3 align="left">Connect with me:</h3>
