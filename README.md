@@ -5,6 +5,7 @@
 
 ---
 <img align="right" alt="coding" width="400" src="https://www.techgropse.com/blog/wp-content/uploads/2022/08/1_jvT5REAJKM3YJiApuRvgXg.gif">
+
 - 📫 How to reach me **dinethinikini@gmail.com**
 
 - 👩🏻‍🎓 I’m an undergraduate at NSBM Green University
