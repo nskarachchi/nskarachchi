@@ -10,8 +10,6 @@
 
 - 👩🏻‍🎓 I’m an undergraduate at NSBM Green University
 
-- ⚡ Fun fact **I name my WiFi networks after my favorite TV shows**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikini kodithuwakku arachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikini kodithuwakku arachchi" height="30" width="40" /></a>
